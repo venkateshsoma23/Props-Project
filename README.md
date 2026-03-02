@@ -1,16 +1,38 @@
-# React + Vite
+# Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This is a simple React project to understand how props work.
+- Props (short for properties) are used to pass data from one component to another component.
+- In this project, we pass values like name, title, or other data from a parent component to a child component.
+- This helps in making components reusable and dynamic.
 
-Currently, two official plugins are available:
+# Language and Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+JavaScript
+- React JS
+- HTML
+- CSS
+- Node.js
+- Vite (for fast development server)
 
-## React Compiler
+# Setup and Run the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Follow these steps:
+1️⃣ Install Dependencies
+- Open terminal inside the project folder and run:
+npm install
 
-## Expanding the ESLint configuration
+2️⃣ Run the Project
+- After installation, run:
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Purpose of This Project
+
+- To understand how props work in React
+- To learn how to pass data between components
+- To practice reusable components
+
+# Contact 
+
+- **Developer:** Venkatesh Soma
+- **Email:** venkateshsoma2305@gmail.com
+- **GitHub:** venkatesh-soma 
