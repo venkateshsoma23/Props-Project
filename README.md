@@ -17,13 +17,14 @@ JavaScript
 # Setup and Run the Project
 
 Follow these steps:
+
 1️⃣ Install Dependencies
-- Open terminal inside the project folder and run:
-npm install
+- Open terminal inside the project folder
+-  run: npm install
 
 2️⃣ Run the Project
-- After installation, run:
-npm run dev
+- After installation 
+-  run: npm run dev
 
 # Purpose of This Project
 
